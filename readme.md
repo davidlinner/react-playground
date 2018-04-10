@@ -1,4 +1,4 @@
-# Simple playground for first plays was React
+# Simple playground for first plays with React
 
 To get started open *index.html* in your browser.
 
